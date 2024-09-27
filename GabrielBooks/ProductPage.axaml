@@ -1,0 +1,164 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="750" d:DesignHeight="610"
+		MinWidth="750" MinHeight="610"
+		MaxWidth="750" MaxHeight="610"
+        x:Class="GabrielBooks.ProductPage"
+		Background="#e7fabf">
+    <Grid
+		RowDefinitions="40 40 40 40 40 80 20 250 40"
+		ColumnDefinitions="50 200 500">
+		<TextBlock
+			Name="idBox"
+			Grid.Row="0"
+			Grid.Column="0"
+			Margin="10">
+		</TextBlock>
+		<Image
+			Name="photoBox"
+			Grid.Row="0"
+			Grid.RowSpan="4"
+			Grid.Column="1"
+			Margin="10"
+			HorizontalAlignment="Center">
+		</Image>
+		<Button
+			Click="SelectImage"
+			Grid.Row="4"
+			Grid.Column="1"
+			Margin="10 0 10 10"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Top"
+			Background="#04a0ff"
+			Foreground="White"
+			FontWeight="Bold"
+			Content="Обзор">
+		</Button>
+		<TextBlock
+			Name="errorBox"
+			Grid.Row="5"
+			Grid.Column="1"
+			Margin="10 0 10 10"
+			Foreground="Red"
+			TextWrapping="Wrap"
+			Text="Размер изображения не должен привышать 2 МБ">
+		</TextBlock>
+		<TextBox
+			Name="nameBox"
+			Grid.Row="0"
+			Grid.Column="2"
+			Margin="0 10 50 10"
+			Background="White"
+			TextWrapping="Wrap"
+			Watermark="Название">
+		</TextBox>
+		<TextBlock
+			Grid.Row="1"
+			Grid.Column="2"
+			Margin="0 0 10 10"
+			Text="Цена:">
+		</TextBlock>
+		<MaskedTextBox
+			Name="priceBox"
+			Grid.Row="1"
+			Grid.Column="2"
+			Margin="-300 0 0 10"
+			Width="100"
+			Background="White">
+		</MaskedTextBox>
+		<ComboBox
+			Name="manufacturerBox"
+			Grid.Row="2"
+			Grid.Column="2"
+			Margin="0 0 0 10"
+			Width="210"
+			Background="White">
+			<ComboBox.ItemTemplate>
+				<DataTemplate>
+					<TextBlock
+						Text="{Binding NameMan}">
+					</TextBlock>
+				</DataTemplate>
+			</ComboBox.ItemTemplate>
+		</ComboBox>
+		<TextBlock
+			Grid.Row="3"
+			Grid.Column="2"
+			Margin="0 5 10 10"
+			Text="Доступен:">
+		</TextBlock>
+		<CheckBox
+			Name="enabledBox"
+			Grid.Row="3"
+			Grid.Column="2"
+			Margin="80 0 0 10">
+		</CheckBox>
+		<Button
+			Name="history"
+			Click="ShowSales"
+			Grid.Row="4"
+			Grid.Column="2"
+			Margin="0 0 0 10"
+			Background="#04a0ff"
+			Foreground="White"
+			FontWeight="Bold"
+			Content="История продаж">
+		</Button>
+		<TextBox
+			Name="descriptionBox"
+			Grid.Row="5"
+			Grid.Column="2"
+			Margin="0 10 50 10"
+			Background="White"
+			Watermark="Описание">
+		</TextBox>
+		<TextBlock
+			Grid.Row="6"
+			Grid.Column="1"
+			HorizontalAlignment="Center"
+			Text="Связанные товары:">
+		</TextBlock>
+		<ListBox
+			Name="attachedList"
+			Grid.Row="7"
+			Grid.Column="0"
+			Grid.ColumnSpan="3"
+			Margin="10"
+			ScrollViewer.VerticalScrollBarVisibility="Visible"
+			SelectionMode="Multiple">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<TextBlock
+						Text="{Binding NamePro}">
+					</TextBlock>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+		<Button
+			Click="Cancel"
+			Grid.Row="8"
+			Grid.Column="2"
+			Margin="200 0 10 0"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Top"
+			Background="#04a0ff"
+			Foreground="White"
+			FontWeight="Bold"
+			Content="Отмена">
+		</Button>
+		<Button
+			Click="Save"
+			Grid.Row="8"
+			Grid.Column="2"
+			Margin="0 0 10 0"
+			HorizontalAlignment="Right"
+			VerticalAlignment="Top"
+			Background="#04a0ff"
+			Foreground="White"
+			FontWeight="Bold"
+			Content="Сохранить">
+		</Button>
+	</Grid>
+</Window>

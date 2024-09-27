@@ -1,0 +1,154 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
+		MinWidth="800" MinHeight="600"
+		MaxWidth="800" MaxHeight="600"
+        x:Class="GabrielBooks.MainWindow"
+        Title="Товары"
+		Background="#e7fabf">
+	<Grid
+		RowDefinitions="50 500 50"
+		ColumnDefinitions="390 220 190">
+		<TextBox
+			Name="searchBox"
+			KeyUp="Search"
+			Grid.Row="0"
+			Grid.Column="0"
+			Margin="10"
+			Width="370"
+			Background="White"
+			Watermark="Поиск">
+		</TextBox>
+		<ComboBox
+			Name="filterBox"
+			SelectionChanged="Filter"
+			Grid.Row="0"
+			Grid.Column="1"
+			Margin="0 10 10 10"
+			Width="210"
+			Background="White">
+			<ComboBox.ItemTemplate>
+				<DataTemplate>
+					<TextBlock
+						Text="{Binding NameMan}">
+					</TextBlock>
+				</DataTemplate>
+			</ComboBox.ItemTemplate>
+		</ComboBox>
+		<ComboBox
+			Name="sortBox"
+			SelectionChanged="Sort"
+			Grid.Row="0"
+			Grid.Column="2"
+			Margin="0 10 10 10"
+			Width="180"
+			Background="White">
+			<ComboBoxItem>Сортировка</ComboBoxItem>
+			<ComboBoxItem>Возрастание цены</ComboBoxItem>
+			<ComboBoxItem>Убывание цены</ComboBoxItem>
+		</ComboBox>
+		<ListBox
+			Name="productList"
+			Grid.Row="1"
+			Grid.Column="0"
+			Grid.ColumnSpan="3"
+			ScrollViewer.VerticalScrollBarVisibility="Visible">
+			<ListBox.ItemsPanel>
+				<ItemsPanelTemplate>
+					<WrapPanel
+						Width="800">
+					</WrapPanel>
+				</ItemsPanelTemplate>
+			</ListBox.ItemsPanel>
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Border
+						Margin="0"
+						Width="230"
+						BorderBrush="Gray"
+						BorderThickness="1"
+						CornerRadius="2"
+						Padding="0">
+						<Grid
+							RowDefinitions="200 * 50">
+							<Image
+								Name="ImageBox"
+								Grid.Row="0"
+								Margin="5"
+								Source="{Binding NamePhoto}">
+							</Image>
+							<WrapPanel
+								Grid.Row="1"
+								Orientation="Vertical">
+								<TextBlock
+									Name="nameProBox"
+									Margin="10 5"
+									HorizontalAlignment="Left"
+									Width="200"
+									TextWrapping="Wrap"
+									Text="{Binding NameAndAttached}">
+								</TextBlock>
+								<TextBlock
+									Name="priceBox"
+									Margin="10 0 10 10"
+									Text="{Binding Price}">
+								</TextBlock>
+							</WrapPanel>
+							<WrapPanel
+								Grid.Row="2"
+								HorizontalAlignment="Center">
+								<Button
+									Tag="{Binding IdPro}"
+									Click="EditProduct"
+									Margin="0"
+									Background="#04a0ff"
+									Foreground="White"
+									FontWeight="Bold"
+									Content="Изменить">
+								</Button>
+								<Button
+									Tag="{Binding IdPro}"
+									Click="DeleteProduct"
+									Margin="20 0 0 0"
+									Background="#04a0ff"
+									Foreground="White"
+									FontWeight="Bold"
+									Content="Удалить">
+								</Button>
+							</WrapPanel>
+						</Grid>
+					</Border>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+		<TextBlock
+			Name="numberBox"
+			Grid.Row="2"
+			Grid.Column="0"
+			Margin="10"
+			FontSize="20">
+		</TextBlock>
+		<TextBlock
+			Name="errorBox"
+			Grid.Row="2"
+			Grid.Column="0"
+			Grid.ColumnSpan="2"
+			Margin="200 10 10 10"
+			Foreground="Red"
+			Text="Нельзя удалить товар, продажи которого внесены в базу">
+		</TextBlock>
+		<Button
+			Click="NewProduct"
+			Grid.Row="2"
+			Grid.Column="2"
+			Margin="10"
+			HorizontalAlignment="Right"
+			Background="#04a0ff"
+			Foreground="White"
+			FontWeight="Bold"
+			Content="Добавить товар">
+		</Button>
+	</Grid>
+</Window>

@@ -1,0 +1,393 @@
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.exe
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.deps.json
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.runtimeconfig.json
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.pdb
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.csproj.AssemblyReference.cache
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\resources
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.AssemblyInfo.cs
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielB.372D7A46.Up2Date
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.genruntimeconfig.cache
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\ref\GabrielBooks.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Npgsql.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\GabrielBooks.dll
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\GabrielBooks.pdb
+C:\Users\prdb\source\repos\GabrielBooks\GabrielBooks\obj\Debug\net8.0\refint\Avalonia\GabrielBooks.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Base.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Dialogs.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Markup.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Metal.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.MicroCom.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.OpenGL.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Vulkan.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Desktop.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Native.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Skia.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Win32.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.X11.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Castle.Core.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\HarfBuzzSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Humanizer.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\MicroCom.Runtime.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Npgsql.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\SkiaSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.CodeDom.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.csproj.AssemblyReference.cache
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\resources
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.AssemblyInfoInputs.cache
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.AssemblyInfo.cs
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.csproj.CoreCompileInputs.cache
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\GabrielBooks.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\GabrielBooks.pdb
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\refint\Avalonia\GabrielBooks.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.exe
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.deps.json
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.runtimeconfig.json
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.pdb
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielB.372D7A46.Up2Date
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.genruntimeconfig.cache
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\ref\GabrielBooks.dll
+E:\Финская\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Text.Json.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.exe
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.deps.json
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.runtimeconfig.json
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\GabrielBooks.pdb
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Base.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Dialogs.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Markup.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Metal.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.MicroCom.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.OpenGL.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Vulkan.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Desktop.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Native.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Skia.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.Win32.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Avalonia.X11.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Castle.Core.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\HarfBuzzSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Humanizer.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\MicroCom.Runtime.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Npgsql.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\SkiaSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.CodeDom.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.csproj.AssemblyReference.cache
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\resources
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.AssemblyInfoInputs.cache
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.AssemblyInfo.cs
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.csproj.CoreCompileInputs.cache
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\GabrielBooks.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\Avalonia\GabrielBooks.pdb
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\refint\Avalonia\GabrielBooks.dll
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielB.372D7A46.Up2Date
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\GabrielBooks.genruntimeconfig.cache
+E:\Учебная практика\Books\GabrielBooks\GabrielBooks\obj\Debug\net8.0\ref\GabrielBooks.dll

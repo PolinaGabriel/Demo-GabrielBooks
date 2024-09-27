@@ -1,0 +1,70 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="300"
+		MinWidth="600" MinHeight="300"
+		MaxWidth="600" MaxHeight="300"
+        x:Class="GabrielBooks.SalesPage"
+        Title="История продаж"
+		Background="#e7fabf">
+	<Grid
+		RowDefinitions="50 200 50">
+		<ComboBox
+			Name="productBox"
+			SelectionChanged="Filter"
+			Grid.Row="0"
+			Margin="10"
+			Width="580"
+			Background="White">
+			<ComboBox.ItemTemplate>
+				<DataTemplate>
+					<TextBlock
+						Text="{Binding NamePro}">
+					</TextBlock>
+				</DataTemplate>
+			</ComboBox.ItemTemplate>
+		</ComboBox>
+		<ListBox
+			Name="saleList"
+			Grid.Row="1"
+			ScrollViewer.VerticalScrollBarVisibility="Visible">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<WrapPanel
+						Margin="5">
+						<TextBlock
+							Name="dateBox"
+							Margin="0 5"
+							Text="{Binding CurrentDate}">
+						</TextBlock>
+						<TextBlock
+							Name="timeBox"
+							Margin="10 5"
+							Text="{Binding CurrentTime}">
+						</TextBlock>
+						<TextBlock
+							Name="quantityBox"
+							Margin="10 5"
+							Text="{Binding Productquantity}">
+						</TextBlock>
+						<TextBlock
+							Margin="0 5"
+							Text="шт.">
+						</TextBlock>
+					</WrapPanel>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+		<Button
+			Click="Cancel"
+			Grid.Row="2"
+			Margin="10"
+			HorizontalAlignment="Right"
+			Background="#04a0ff"
+			Foreground="White"
+			FontWeight="Bold"
+			Content="Закрыть">
+		</Button>
+	</Grid>
+</Window>

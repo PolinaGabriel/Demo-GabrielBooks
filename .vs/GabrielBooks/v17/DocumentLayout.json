@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|e:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\books\\gabrielbooks\\gabrielbooks\\salespage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|solutionrelative:gabrielbooks\\salespage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|e:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\books\\gabrielbooks\\gabrielbooks\\salespage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|solutionrelative:gabrielbooks\\salespage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|e:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\books\\gabrielbooks\\gabrielbooks\\productpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|solutionrelative:gabrielbooks\\productpage.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|e:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\books\\gabrielbooks\\gabrielbooks\\productpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|solutionrelative:gabrielbooks\\productpage.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|e:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\books\\gabrielbooks\\gabrielbooks\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|solutionrelative:gabrielbooks\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|e:\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\books\\gabrielbooks\\gabrielbooks\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C12D7A-D97E-4E52-9E95-E136BEA0DD16}|GabrielBooks\\GabrielBooks.csproj|solutionrelative:gabrielbooks\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "GabrielBooks\\MainWindow.axaml",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\MainWindow.axaml",
+              "RelativeToolTip": "GabrielBooks\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:48:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "GabrielBooks\\MainWindow.axaml.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\MainWindow.axaml.cs",
+              "RelativeToolTip": "GabrielBooks\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:48:46.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPage.axaml",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\ProductPage.axaml",
+              "RelativeDocumentMoniker": "GabrielBooks\\ProductPage.axaml",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\ProductPage.axaml",
+              "RelativeToolTip": "GabrielBooks\\ProductPage.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:48:44.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductPage.axaml.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\ProductPage.axaml.cs",
+              "RelativeDocumentMoniker": "GabrielBooks\\ProductPage.axaml.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\ProductPage.axaml.cs",
+              "RelativeToolTip": "GabrielBooks\\ProductPage.axaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACcAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:48:43.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesPage.axaml",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\SalesPage.axaml",
+              "RelativeDocumentMoniker": "GabrielBooks\\SalesPage.axaml",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\SalesPage.axaml",
+              "RelativeToolTip": "GabrielBooks\\SalesPage.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:48:43.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesPage.axaml.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\SalesPage.axaml.cs",
+              "RelativeDocumentMoniker": "GabrielBooks\\SalesPage.axaml.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Books\\GabrielBooks\\GabrielBooks\\SalesPage.axaml.cs",
+              "RelativeToolTip": "GabrielBooks\\SalesPage.axaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:48:42.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
