@@ -30,7 +30,7 @@ namespace GabrielBooks
             errorBox.IsVisible = false;
             sortBox.SelectedIndex = 0;
             searchBox.Text = "";
-            List<Manufacturer> manufacturers = [new Manufacturer(){ IdMan = -1, NameMan = "Все производители" }, .. Helper.Database.Manufacturers];
+            List<Manufacturer> manufacturers = [new Manufacturer(){ IdMan = -1, NameMan = "Г‚Г±ГҐ ГЇГ°Г®ГЁГ§ГўГ®Г¤ГЁГІГҐГ«ГЁ" }, .. Helper.Database.Manufacturers];
             filterBox.ItemsSource = manufacturers.ToList().Select(x => new
             {
                 x.IdMan,
@@ -53,33 +53,6 @@ namespace GabrielBooks
                 x.Price,
                 x.Enabled
             });
-
-
-
-            ////сопоставление цвета
-            //foreach (Product p1 in Helper.Database.Products)
-            //{
-            //    foreach (Product p2 in all)
-            //    {
-            //        if (p1.IdPro == p2.IdPro)
-            //        {
-            //            //productList.Items[all.IndexOf(p2)].Background = Brush.Parse("White");
-            //            ListBoxItem item = new ListBoxItem();
-            //            if (p2.Enabled == true)
-            //            {
-            //                item.Background = Brush.Parse("White");
-            //            }
-            //            else
-            //            {
-            //                item.Background = Brush.Parse("White");
-            //            }
-            //            productList.Items.Add(item);
-            //        }
-            //    }
-            //}
-
-            
-
             numberBox.Text = all.Count() + " / " + Helper.Database.Products.Count();
         }
 
@@ -158,7 +131,7 @@ namespace GabrielBooks
         public void EditProduct(object sender, RoutedEventArgs routedEventArgs)
         {
             ProductPage productPage = new ProductPage();
-            productPage.Title = "Редактирование товара";
+            productPage.Title = "ГђГҐГ¤Г ГЄГІГЁГ°Г®ГўГ Г­ГЁГҐ ГІГ®ГўГ Г°Г ";
             productPage.forAttachment = forAttachment.ToList();
             productPage.idBox.Text = Convert.ToString(Helper.Database.Products.FirstOrDefault(x => x.IdPro == (int)(sender as Button).Tag).IdPro);
             productPage.photo = Helper.Database.Products.FirstOrDefault(x => x.IdPro == (int)(sender as Button).Tag).Mainphoto;
@@ -226,7 +199,7 @@ namespace GabrielBooks
         public void NewProduct(object sender, RoutedEventArgs routedEventArgs)
         {
             ProductPage productPage = new ProductPage();
-            productPage.Title = "Новый товар";
+            productPage.Title = "ГЌГ®ГўГ»Г© ГІГ®ГўГ Г°";
             productPage.history.IsVisible = false;
             productPage.forAttachment = forAttachment.ToList();
             productPage.idBox.Text = "new";
